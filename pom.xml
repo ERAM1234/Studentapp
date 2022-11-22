@@ -27,7 +27,7 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>deploymentRepo</admin>
+            <id>deploymentRepo</id>
             <name>Internal Releases</name>
             <url>http://34.125.225.25:8081/repository/ram/</url>
         </repository>
