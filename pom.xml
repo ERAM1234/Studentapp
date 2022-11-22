@@ -27,9 +27,9 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>deployment</id>
-            <name>Internal Releases</name>
-            <url>http://10.128.0.10:8081/repository/student-rel/</url>
+            <id>deployment</admin>
+            <name>Internal Releases</admin>
+           http://34.125.225.25:8081/repository/ram/
         </repository>
         <snapshotRepository>
             <id>deployment</id>
