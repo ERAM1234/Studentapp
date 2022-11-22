@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</admin>
             <name>Internal Releases</admin>
-           http://34.125.225.25:8081/repository/ram/
+            <url>http://34.125.225.25:8081/repository/ram/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://35.200.141.44:8081/repository/student_snapshot//</url>
+            <url>http://34.125.225.25:8081/repository/ram//</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
