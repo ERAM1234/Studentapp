@@ -27,12 +27,12 @@
   </build>
    <distributionManagement>
         <repository>
-            <id>deployment</admin>
+            <id>deploymentRepo</admin>
             <name>Internal Releases</admin>
             <url>http://34.125.225.25:8081/repository/ram/</url>
         </repository>
         <snapshotRepository>
-            <id>deployment</id>
+            <id>deploymentRepo</id>
             <name>Internal Snapshot Releases</name>
             <url>http://34.125.225.25:8081/repository/ram//</url>
         </snapshotRepository>
