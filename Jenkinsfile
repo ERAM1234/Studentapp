@@ -3,7 +3,7 @@ pipeline{
     stages{
         stage('clone'){
             steps{
-                git 'https://github.com/devops090/Studentapp.git'
+                git 'https://github.com/ERAM1234/Studentapp.git'
             }
         }
         stage('clean'){
